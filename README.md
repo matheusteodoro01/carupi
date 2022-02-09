@@ -38,16 +38,22 @@ Hoje o app tem a seguinte proposta:
 ```
 
 ```sh
+
+  # Clone este repositório
+  $ git clone https://github.com/WallysonGalvao/rocketseat-gobarber.git
+
   # Instalando as dependências
   $ npm install
 
-  # Rodando o back-end
+  # Build do projeto
   $ npm build
+
+  # Rodando o back-end
   $ npm start
-  
+
   # Testando o back-end
   $ npm test
- 
+
 
 
 ```
