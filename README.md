@@ -58,8 +58,9 @@ Hoje o app tem a seguinte proposta:
   
   
   
-  # Bonus testando o back-end com Tauros
-  Resultado com mais de 100 mil requests, apenas o mongo DB cluster perdeu performace por limitar os ios em um plano free!
+  # Bonus! 
+  # Testando o back-end com Tauros
+  Resultado com mais de 100 mil requests. Apenas o mongo DB cluster perdeu performace por limitar os ios em um plano free!
  
    <img  width="1080" src="https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png">
 
