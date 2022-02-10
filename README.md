@@ -65,7 +65,7 @@ Hoje o app tem a seguinte proposta:
  
  <img src="https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png">
  ## Screenshots
-<table>
+ <table>
 	<tr>
 		<th width="100%">
 			Web Interface<br>
@@ -74,6 +74,6 @@ Hoje o app tem a seguinte proposta:
 	<tr>
 		<td>
 			<img width="1080" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/web.gif">
-		</td>https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png
+		</td>
 	</tr>
-</table>
+ </table>
