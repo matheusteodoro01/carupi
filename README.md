@@ -63,7 +63,7 @@ Hoje o app tem a seguinte proposta:
  
  Resultado com mais de 100 mil requests, apenas o mongo DB perdeu performace por estar em um plano free ;)
 
-![image](https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png)
+<img src='https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png'>
 
 
 ```
