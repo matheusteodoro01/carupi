@@ -1,3 +1,6 @@
+
+
+
 <p align="center">
 
   <h5 align="center">Plataforma de Venda de Carros com  Node JS.</h5>
@@ -33,11 +36,7 @@ Hoje o app tem a seguinte proposta:
 
 - **[Node.js](https://nodejs.org/en/)** instalado na máquina e de um gerenciador de dependencias (**[npm](https://www.npmjs.com/)** ou **[yarn](https://yarnpkg.com/)**)
 
-```sh
 
-```
-
-```sh
 
   # Clone este repositório
   $ git clone https://github.com/WallysonGalvao/rocketseat-gobarber.git
@@ -60,20 +59,7 @@ Hoje o app tem a seguinte proposta:
   
   
   # Bonus testando o back-end com Tauros
+  Resultado com mais de 100 mil requests, apenas o mongo DB cluster perdeu performace por limitar os ios em um plano free!
  
- Resultado com mais de 100 mil requests, apenas o mongo DB perdeu performace por estar em um plano free ;)
- 
- <img src="https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png">
- ## Screenshots
- <table>
-	<tr>
-		<th width="100%">
-			Web Interface<br>
-		</th>
-	</tr>
-	<tr>
-		<td>
-			<img width="1080" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/web.gif">
-		</td>
-	</tr>
- </table>
+   <img  width="1080" src="https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png">
+
