@@ -3,7 +3,7 @@
   <h5 align="center">Plataforma de Venda de Carros com  Node JS.</h5>
 
   <p align="center">
-    Projeto desenvolido por Matheus Teodoro
+    Projeto desenvolvido por Matheus Teodoro
     <br />
     <a href="https://carupi.herokuapp.com/cars">Clique aqui para acessar o backend rodando!</a>
     ·
