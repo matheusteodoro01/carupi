@@ -64,6 +64,19 @@ Hoje o app tem a seguinte proposta:
  Resultado com mais de 100 mil requests, apenas o mongo DB perdeu performace por estar em um plano free ;)
  
  <img src="https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png">
+ 
+ <table>
+	<tr>
+		<th width="100%">
+			Web Interface<br>
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<img width="1080" src="https://raw.githubusercontent.com/danielnegrisolibatista/be-the-hero/master/screenshots/web.gif">
+		</td>https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png
+	</tr>
+</table>
 
 
 ```
