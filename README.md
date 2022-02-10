@@ -5,7 +5,7 @@
   <p align="center">
     Projeto desenvolido por Matheus Teodoro
     <br />
-    <a href="/">Versão web</a>
+    <a href="https://carupi.herokuapp.com/cars">Clique aqui para acessar o backend rodando!</a>
     ·
  
   </p>
