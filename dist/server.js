@@ -4,4 +4,6 @@
 
 const PORT = process.env.PORT || 3333; //Configuração para deploy no heroku 
 
-_app2.default.listen(PORT);
+_app2.default.listen(PORT, () => {
+    console.log(`√ Express rodando na porta : ${PORT}`)
+})

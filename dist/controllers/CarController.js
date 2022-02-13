@@ -25,9 +25,12 @@ class CarController {
 
         await _Cars2.default.create(req.body)
             .then(data => {
+                console.log('√ Created 200')
                 return res.json(data)
             })
             .catch(error => {
+                console.log('Error 500')
+                
                 return res.status(400).json(error.original)
             })
 

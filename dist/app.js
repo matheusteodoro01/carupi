@@ -32,6 +32,14 @@ class App {
 
      database() {
         _mongoose2.default.connect(process.env.DATABASE_URL)
+
+
+        .then(data => {
+            console.log("√ Mogo DB conectado")
+        })
+        .catch(error => {
+            console.log(`Erro ao conectar Mongo em ${process.env.DATABASE_URL}`)
+        })
         useNewUrlParser: true
 
 

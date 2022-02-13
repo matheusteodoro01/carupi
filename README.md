@@ -51,6 +51,9 @@ Hoje o app tem a seguinte proposta:
   # Rodando o back-end
   $ npm start
 
+  # Consumindo da Api
+  Utilize o arquivo Colection-Carupi.json no Insominia para importar a Colection da Api
+
   # Testando o back-end
   $ npm test
 
