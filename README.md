@@ -1,11 +1,14 @@
+
+
+
 <p align="center">
 
   <h5 align="center">Plataforma de Venda de Carros com  Node JS.</h5>
 
   <p align="center">
-    Projeto desenvolido por Matheus Teodoro
+    Projeto desenvolvido por Matheus Teodoro
     <br />
-    <a href="/">Versão web</a>
+    <a href="https://carupi.herokuapp.com/cars">Clique aqui para acessar o backend rodando!</a>
     ·
  
   </p>
@@ -33,11 +36,7 @@ Hoje o app tem a seguinte proposta:
 
 - **[Node.js](https://nodejs.org/en/)** instalado na máquina e de um gerenciador de dependencias (**[npm](https://www.npmjs.com/)** ou **[yarn](https://yarnpkg.com/)**)
 
-```sh
 
-```
-
-```sh
 
   # Clone este repositório
   $ git clone https://github.com/WallysonGalvao/rocketseat-gobarber.git
@@ -50,15 +49,21 @@ Hoje o app tem a seguinte proposta:
 
   # Rodando o back-end
   $ npm start
+  
+   # Consumindo da Api
+  Utilize o arquivo Colection-Carupi.json no Insominia para importar a Colection da Api
 
   # Consumindo da Api
   Utilize o arquivo Colection-Carupi.json no Insominia para importar a Colection da Api
 
   # Testando o back-end
   $ npm test
+  
+  
+  
+  # Bonus! 
+  # Teste de back-end com Tauros
+  Resultado com mais de 100 mil requests. Apenas o mongo DB cluster perdeu performace por limitar os ios em um plano free!
+ 
+   <img  width="1080" src="https://user-images.githubusercontent.com/60862196/153331698-456396bc-11d2-41cc-ba7b-7a81da25cd00.png">
 
-
-
-```
-
----
