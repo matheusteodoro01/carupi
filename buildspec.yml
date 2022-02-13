@@ -5,13 +5,11 @@ phases:
     runtime-versions:
     docker: 20
     nodejs: 16
-    finally:
-      - echo Installing docker e node js
   pre_build:
     commands:
       - echo Installing depends
       - npm install
-      - $(aws ecr get-login --no-include-email --region $AWS_DEFAULT_REGION)
+      - aws ecr get-login-password --region $AWS_DEFAULT_REGION | docker login --username AWS --password-stdin $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com
   build:
     commands:
       - echo Testing...
